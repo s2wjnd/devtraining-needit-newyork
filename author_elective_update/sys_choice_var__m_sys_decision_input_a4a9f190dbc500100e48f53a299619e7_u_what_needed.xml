@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal 1</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 07:56:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b5f7518dbc500100e48f53a299619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 07:56:24</sys_updated_on>
+            <value>leagal1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_what_needed</element>
+            <name>var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 07:56:24</sys_created_on>
+            <sys_id>526f7518dbc500100e48f53a299619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_what_needed</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7_u_what_needed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 07:56:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0eae45efdb807b409df22f17d496190a</instance_id>
+        <instance_name>dev74699</instance_name>
+        <name>sys_choice_var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_what_needed" table="var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_what_needed</element><hint/><inactive>false</inactive><label>Legal 1</label><language>en</language><name>var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-07 07:56:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8b5f7518dbc500100e48f53a299619ca</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-07 07:56:24</sys_updated_on><value>leagal1</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_what_needed</element><name>var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-07 07:56:24</sys_created_on><sys_id>526f7518dbc500100e48f53a299619af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_what_needed</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7_u_what_needed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-07 07:56:24</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-972559394</payload_hash>
+        <record_name>.What needed</record_name>
+        <reverted_from/>
+        <source>245a349cdb8100100e48f53a299619a6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 07:56:24</sys_created_on>
+        <sys_id>de6f7518dbc500100e48f53a299619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e44dd4cae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 07:56:24</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>5a6f75187fc50010c935cb07dfd5eab0</update_guid>
+        <update_guid_history>5a6f75187fc50010c935cb07dfd5eab0:-972559394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 07:56:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>526f7518dbc500100e48f53a299619af</sys_id>
+        <sys_metadata>526f7518dbc500100e48f53a299619af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_var__m_sys_decision_input_a4a9f190dbc500100e48f53a299619e7_u_what_needed">de6f7518dbc500100e48f53a299619b0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 07:56:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
